@@ -1,7 +1,7 @@
 {
-  "name": "node-fs",
+  "name": "node-fs2",
   "version": "1.0.0",
-  "description": "fs library",
+  "description": "node fs extension",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,7 @@
   },
   "repository": {
 		"type": "git",
-		"url": "https://github.com/kkchan2014/node-fs.git"
+		"url": "https://github.com/kkchan2014/node-fs2.git"
 	},
   "dependencies": {
     "fs": "latest",
