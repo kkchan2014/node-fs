@@ -1,6 +1,6 @@
 {
   "name": "node-fs2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "node fs extension",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,6 @@
   "dependencies": {
     "fs": "latest",
     "path": "latest",
-    "node-type-extensions": "~1.0.0"
+    "node-type-extensions": "latest"
   }
 }
